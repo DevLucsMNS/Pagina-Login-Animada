@@ -36,11 +36,11 @@ Este projeto não requer nenhuma instalação ou dependência. Basta seguir os p
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    git clone https://github.com/DevLucsMNS/Pagina-Login-Animada.git 
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
-    cd nome-do-repositorio
+    cd Pagina-Login-Animada
     ```
 3.  **Abra o arquivo `index.html` no seu navegador de preferência.**
 
