@@ -2,7 +2,7 @@
 
 Uma página de login e registro moderna e totalmente responsiva, com uma animação de slide suave que alterna entre os formulários. Construído com HTML, CSS e JavaScript.
 
-![Uploading PaginaLoginAnimadaGIF.gif…]()
+
 
 ## 📖 Descrição do Projeto
 
