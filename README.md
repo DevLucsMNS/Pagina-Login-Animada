@@ -46,6 +46,12 @@ Este projeto não requer nenhuma instalação ou dependência. Basta seguir os p
 
 E pronto! A página estará funcionando.
 
+Ou
+
+Acesse por esse link
+
+https://devlucsmns.github.io/Pagina-Login-Animada/
+
 ---
 
 ## 📜 Licença
