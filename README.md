@@ -48,8 +48,7 @@ E pronto! A página estará funcionando.
 
 Ou
 
-Acesse por esse link
-
+**Acesse por esse link:**
 https://devlucsmns.github.io/Pagina-Login-Animada/
 
 ---
